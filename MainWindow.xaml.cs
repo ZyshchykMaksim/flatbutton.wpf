@@ -52,7 +52,8 @@ namespace FlatUIWPF
                             Height = 35,
                             FontSize = 20,
                             Cursor = Cursors.Hand,
-                            IsPress = false
+                            IsPress = false,
+							Margin = new Thickness(5)
                         };
                     TextBlock box = new TextBlock()
                         {

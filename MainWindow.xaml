@@ -13,7 +13,7 @@
             		<Grid.Background>
             			<ImageBrush ImageSource="Image/large.png" Stretch="UniformToFill"/>
             		</Grid.Background>
-                    <my:FlatButton Content="HELLO" IsPress="False"  AwesomeIcon="checkcircle" IconColor="Red" IsHover="False" FontSize="20" Height="36" HorizontalAlignment="Center" Margin="423.5,0,423.5,37" x:Name="flatButton1" VerticalAlignment="Bottom" Width="169" Background="{x:Null}" BorderBrush="#FF0C565B" Foreground="DarkGreen" />
+                    <my:FlatButton Content="HELLO" IsPress="False"  IsHover="False" FontSize="20" Height="36" HorizontalAlignment="Center" Margin="423.5,0,423.5,37" x:Name="flatButton1" VerticalAlignment="Bottom" Width="169" Background="{x:Null}" BorderBrush="#FF0C565B" Foreground="DarkGreen" />
                 </Grid>
             	<ItemsControl ItemsSource="{Binding Items, ElementName=Window}" Grid.Row="1">
             		<ItemsControl.ItemsPanel >
