@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Icons>
+	<!--New Icons in 4.0-->
+	<Icon key="check" value="&#xf00c;" />
+	<Icon key="stackexchange" value="&#xf18d;" />
+	<Icon key="pagelines" value="&#xf18c;" />
+	<Icon key="arrowcircleoright" value="&#xf18e;" />
+	<Icon key="arrowcircleoleft" value="&#xf190;" />
+	<Icon key="caretsquareoleft" value="&#xf191;" />
+	<Icon key="dotcircleo" value="&#xf192;" />
+	<Icon key="wheelchair" value="&#xf193;" />
+	<Icon key="vimeosquare" value="&#xf194;" />
+	<Icon key="fatry" value="&#xf195;" />
+	<Icon key="plussquare" value="&#xf196;" />
+	<!--      ==#==         -->
+
+	<!--Web Application Icons-->
+	<Icon key="adjust" value="&#xf042;" />
+	<Icon key="anchor" value="&#xf13d;" />
+	<Icon key="archive" value="&#xf187;" />
+	<Icon key="arrows" value="&#xf047;" />
+	<Icon key="arrowsh" value="&#xf07e;" />
+	<Icon key="arrowsv" value="&#xf07d;" />
+	<Icon key="asterisk" value="&#xf069;" />
+	<Icon key="ban" value="&#xf05e;" />
+	<Icon key="barcharto" value="&#xf080;" />
+	<Icon key="barcode" value="&#xf02a;" />
+	<Icon key="bars" value="&#xf0c9;" />
+	<Icon key="beer" value="&#xf0fc;" />
+	<Icon key="bell" value="&#xf0f3;" />
+	<Icon key="bello" value="&#xf0a2;" />
+	<Icon key="bolt" value="&#xf0e7;" />
+	<Icon key="book" value="&#xf02d;" />
+	<Icon key="bookmark" value="&#xf02e;" />
+	<Icon key="bookmarko" value="&#xf097;" />
+	<Icon key="briefcase" value="&#xf0b1;" />
+	<Icon key="bug" value="&#xf188;" />
+	<Icon key="buildingo" value="&#xf0f7;" />
+	<Icon key="bullhorn" value="&#xf0a1;" />
+	<Icon key="calendar" value="&#xf073;" />
+	<Icon key="bullseye" value="&#xf140;" />
+	<Icon key="calendaro" value="&#xf133;" />
+	<Icon key="camera" value="&#xf030;" />
+	<Icon key="cameraretro" value="&#xf083;" />
+	<Icon key="caretsquareodown" value="&#xf150;" />
+	<Icon key="caretsquareoup " value="&#xf151;" />
+	<Icon key="certificate" value="&#xf0a3;" />
+	<Icon key="checkcircle" value="&#xf058;" />
+	<Icon key="checkcircleo" value="&#xf05d;" />
+	<Icon key="checksquare" value="&#xf14a;" />
+	<Icon key="checksquareo" value="&#xf046;" />
+	<Icon key="circle" value="&#xf111;" />
+	<Icon key="circleo" value="&#xf10c;" />
+	<Icon key="clocko" value="&#xf017;" />
+	<Icon key="cloud" value="&#xf0c2;" />
+	<Icon key="clouddownload" value="&#xf0ed;" />
+	<Icon key="cloudupload" value="&#xf0ee;" />
+	<Icon key="code" value="&#xf121;" />
+	<Icon key="codefork" value="&#xf126;" />
+	<Icon key="coffee" value="&#xf0f4;" />
+	<Icon key="cog" value="&#xf013;" />
+	<Icon key="cogs" value="&#xf085;" />
+	<Icon key="comment" value="&#xf075;" />
+	<Icon key="commento" value="&#xf0e5;" />
+	<Icon key="comments" value="&#xf086;" />
+	<Icon key="commentso" value="&#xf0e6;" />
+	<Icon key="compass" value="&#xf14e;" />
+	<Icon key="creditcard" value="&#xf09d;" />
+	<Icon key="crop" value="&#xf125;" />
+	<Icon key="cutlery" value="&#xf0f5;" />
+	<Icon key="tachometer" value="&#xf0e4;" />
+	<Icon key="desktop" value="&#xf108;" />
+	<Icon key="download" value="&#xf019;" />
+	<Icon key="pencilsquareo" value="&#xf044;" />
+	<Icon key="ellipsish" value="&#xf141;" />
+	<Icon key="ellipsisv" value="&#xf142;" />
+	<Icon key="envelope" value="&#xf0e0;" />
+	<Icon key="envelopeo" value="&#xf003;" />
+	<Icon key="eraser" value="&#xf12d;" />
+	<Icon key="exchange" value="&#xf0ec;" />
+	<Icon key="exclamation" value="&#xf12a;" />
+	<Icon key="exclamationcircle" value="&#xf06a;" />
+	<Icon key="exclamationtriangle" value="&#xf071;" />
+	<Icon key="externallink" value="&#xf08e;" />
+	<Icon key="externallinksquare" value="&#xf14c;" />
+	<Icon key="eye" value="&#xf06e;" />
+	<Icon key="eyeslash" value="&#xf070;" />
+	<Icon key="female" value="&#xf182;" />
+	<Icon key="fighterjet" value="&#xf0fb;" />
+	<Icon key="film" value="&#xf008;" />
+	<Icon key="filter" value="&#xf0b0;" />
+	<Icon key="fire" value="&#xf06d;" />
+	<Icon key="fireextinguisher" value="&#xf134;" />
+	<Icon key="flag" value="&#xf024;" />
+	<Icon key="flagcheckered" value="&#xf11e;" />
+	<Icon key="flago" value="&#xf11d;" />
+	<Icon key="flask" value="&#xf0c3;" />
+	<Icon key="folder" value="&#xf07b;" />
+	<Icon key="foldero" value="&#xf114;" />
+	<Icon key="folderopen" value="&#xf07c;" />
+	<Icon key="folderopeno" value="&#xf115;" />
+	<Icon key="frowno" value="&#xf119;" />
+	<Icon key="gamepad" value="&#xf11b;" />
+	<Icon key="gavel" value="&#xf0e3;" />
+	<Icon key="gift" value="&#xf06b;" />
+	<Icon key="glass" value="&#xf000;" />
+	<Icon key="globe" value="&#xf0ac;" />
+	<Icon key="users" value="&#xf0c0;" />
+	<Icon key="hddo" value="&#xf0a0;" />
+	<Icon key="headphones" value="&#xf025;" />
+	<Icon key="heart" value="&#xf004;" />
+	<Icon key="hearto" value="&#xf08a;" />
+	<Icon key="home" value="&#xf015;" />
+	<Icon key="inbox" value="&#xf01c;" />
+	<Icon key="info" value="&#xf129;" />
+	<Icon key="infocircle" value="&#xf05a;" />
+	<Icon key="key" value="&#xf084;" />
+	<Icon key="keyboardo" value="&#xf11c;" />
+	<Icon key="laptop" value="&#xf109;" />
+	<Icon key="leaf" value="&#xf06c;" />
+	<Icon key="emono" value="&#xf094;" />
+	<Icon key="leveldown" value="&#xf149;" />
+	<Icon key="levelup" value="&#xf148;" />
+	<Icon key="lightbulbo " value="&#xf0eb;" />
+	<Icon key="locationarrow" value="&#xf124;" />
+	<Icon key="castle" value="&#xf023;" />
+	<Icon key="magic" value="&#xf0d0;" />
+	<Icon key="magnet" value="&#xf076;" />
+	<Icon key="share" value="&#xf064;" />
+	<Icon key="reply" value="&#xf112;" />
+	<Icon key="mailreplyall" value="&#xf122;" />
+	<Icon key="male" value="&#xf183;" />
+	<Icon key="mapmarker" value="&#xf041;" />
+	<Icon key="meho" value="&#xf11a;" />
+	<Icon key="microphone" value="&#xf130;" />
+	<Icon key="microphoneslash " value="&#xf131;" />
+	<Icon key="minus" value="&#xf068;" />
+	<Icon key="minuscircle" value="&#xf056;" />
+	<Icon key="minussquare" value="&#xf146;" />
+	<Icon key="minussquareo" value="&#xf147;" />
+	<Icon key="mobile" value="&#xf10b;" />
+	<Icon key="money" value="&#xf0d6;" />
+	<Icon key="moono" value="&#xf186;" />
+	<Icon key="music" value="&#xf001;" />
+	<Icon key="pencil" value="&#xf040;" />
+	<Icon key="pencilsquare" value="&#xf14b;" />
+	<Icon key="phone" value="&#xf095;" />
+	<Icon key="phonesquare " value="&#xf098;" />
+	<Icon key="pictureo" value="&#xf03e;" />
+	<Icon key="plane" value="&#xf072;" />
+	<Icon key="plus" value="&#xf067;" />
+	<Icon key="pluscircle" value="&#xf055;" />
+	<Icon key="plussquareo" value="&#xf196;" />
+	<Icon key="poweroff" value="&#xf011;" />
+	<Icon key="print" value="&#xf02f;" />
+	<Icon key="puzzlepiece" value="&#xf12e;" />
+	<Icon key="qrcode" value="&#xf029;" />
+	<Icon key="question" value="&#xf128;" />
+	<Icon key="questioncircle " value="&#xf059;" />
+	<Icon key="quoteleft" value="&#xf10d;" />
+	<Icon key="quoteright" value="&#xf10e;" />
+	<Icon key="random" value="&#xf074;" />
+	<Icon key="refresh" value="&#xf021;" />
+	<Icon key="retweet" value="&#xf079;" />
+	<Icon key="road" value="&#xf018;" />
+	<Icon key="rocket" value="&#xf135;" />
+	<Icon key="rss" value="&#xf09e;" />
+	<Icon key="rsssquare" value="&#xf143;" />
+	<Icon key="search" value="&#xf002;" />
+	<Icon key="searchminus" value="&#xf010;" />
+	<Icon key="searchplus" value="&#xf00e;" />
+	<Icon key="sharesquare" value="&#xf14d;" />
+	<Icon key="sharesquareo" value="&#xf045;" />
+	<Icon key="shield" value="&#xf132;" />
+	<Icon key="shoppingcart" value="&#xf07a;" />
+	<Icon key="signin" value="&#xf090;" />
+	<Icon key="signout" value="&#xf08b;" />
+	<Icon key="signal" value="&#xf012;" />
+	<Icon key="sitemap" value="&#xf0e8;" />
+	<Icon key="smileo" value="&#xf118;" />
+	<Icon key="sort" value="&#xf0dc;" />
+	<Icon key="sortalphaasc" value="&#xf15d;" />
+	<Icon key="sortalphadesc" value="&#xf15e;" />
+	<Icon key="sortamountasc" value="&#xf160;" />
+	<Icon key="sortamountdesc" value="&#xf161;" />
+	<Icon key="sortasc" value="&#xf0dd;" />
+	<Icon key="sortdesc" value="&#xf0de;" />
+	<Icon key="sortnumericasc" value="&#xf162;" />
+	<Icon key="sortnumericdesc" value="&#xf163;" />
+	<Icon key="spinner" value="&#xf110;" />
+	<Icon key="square" value="&#xf0c8;" />
+	<Icon key="squareo" value="&#xf096;" />
+	<Icon key="star" value="&#xf005;" />
+	<Icon key="starhalf" value="&#xf089;" />
+	<Icon key="starhalfo" value="&#xf123;" />
+	<Icon key="staro" value="&#xf006;" />
+	<Icon key="subscript" value="&#xf12c;" />
+	<Icon key="suitcase" value="&#xf0f2;" />
+	<Icon key="suno" value="&#xf185;" />
+	<Icon key="superscript " value="&#xf12b;" />
+	<Icon key="tablet" value="&#xf10a;" />
+	<Icon key="tag" value="&#xf02b;" />
+	<Icon key="tags" value="&#xf02c;" />
+	<Icon key="tasks" value="&#xf0ae;" />
+	<Icon key="terminal " value="&#xf120;" />
+	<Icon key="thumbtack " value="&#xf08d;" />
+	<Icon key="thumbsdown " value="&#xf165;" />
+	<Icon key="thumbsodown " value="&#xf088;" />
+	<Icon key="thumbsoup " value="&#xf087;" />
+	<Icon key="thumbsup " value="&#xf164;" />
+	<Icon key="ticket" value="&#xf145;" />
+	<Icon key="times" value="&#xf00d;" />
+	<Icon key="timescircle" value="&#xf057;" />
+	<Icon key="timescircleo" value="&#xf05c;" />
+	<Icon key="tint" value="&#xf043;" />
+	<Icon key="trasho" value="&#xf014;" />
+	<Icon key="trophy" value="&#xf091;" />
+	<Icon key="truck" value="&#xf0d1;" />
+	<Icon key="umbrella" value="&#xf0e9;" />
+	<Icon key="unlock" value="&#xf09c;" />
+	<Icon key="unlockalt" value="&#xf13e;" />
+	<Icon key="upload" value="&#xf093;" />
+	<Icon key="user" value="&#xf007;" />
+	<Icon key="videocamera" value="&#xf03d;" />
+	<Icon key="volumedown" value="&#xf027;" />
+	<Icon key="volumeoff" value="&#xf026;" />
+	<Icon key="volumeup" value="&#xf028;" />
+	<Icon key="wrench" value="&#xf0ad;" />
+  <Icon key="usd" value="&#xf155;" />  
+	<!--      ==#==         -->
+  
+  <!--  Text Editor Icons -->
+  <Icon key="aligncenter" value="&#xf037;" />
+  <Icon key="bold" value="&#xf032;" />
+  <Icon key="alignjustify" value="&#xf039;" />
+  <Icon key="alignleft" value="&#xf036;" />
+  <Icon key="alignright" value="&#xf038;" />
+  <Icon key="link" value="&#xf0c1;" />
+  <Icon key="chainbroken" value="&#xf127;" />
+  <Icon key="clipboard" value="&#xf0ea;" />
+  <Icon key="columns" value="&#xf0db;" />
+  <Icon key="fileso" value="&#xf0c5;" />
+  <Icon key="scissors" value="&#xf0c4;" />
+  <Icon key="outdent" value="&#xf03b;" />
+  <Icon key="file" value="&#xf15b;" />
+  <Icon key="fileo" value="&#xf016;" />
+  <Icon key="filetexto" value="&#xf0f6;" />
+  <Icon key="filetext " value="&#xf0f6;" />
+  <Icon key="floppyo" value="&#xf15c;" />
+  <Icon key="font" value="&#xf031;" />
+  <Icon key="indent" value="&#xf03c;" />
+  <Icon key="italic" value="&#xf033;" />
+  <Icon key="list" value="&#xf03a;" />
+  <Icon key="listalt" value="&#xf022;" />
+  <Icon key="listol" value="&#xf0cb;" />
+  <Icon key="listul" value="&#xf0ca;" />
+  <Icon key="paperclip" value="&#xf0c6;" />
+  <Icon key="repeat" value="&#xf01e;" />
+  <Icon key="undo" value="&#xf0e2;" />
+  <Icon key="scissors" value="&#xf0c4;" />
+  <Icon key="strikethrough" value="&#xf0cc;" />
+  <Icon key="table" value="&#xf0ce;" />
+  <Icon key="textheight" value="&#xf034;" />
+  <Icon key="textwidth" value="&#xf035;" />
+  <Icon key="th" value="&#xf00a;" />
+  <Icon key="thlarge" value="&#xf009;" />
+  <Icon key="thlist" value="&#xf00b;" />
+  <Icon key="underline" value="&#xf0cd;" />
+
+
+
+
+
+
+
+  <!--      ==#==         -->
+
+</Icons>

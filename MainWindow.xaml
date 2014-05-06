@@ -1,0 +1,28 @@
+﻿<Window x:Class="FlatUIWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="392.357" Width="637.58" Loaded="Window_Loaded" WindowState="Maximized" Name="Window" MinHeight="600" MinWidth="1024" xmlns:my="clr-namespace:FlatUIWPF">
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" >            
+            <Grid>
+            	<Grid.RowDefinitions>
+            		<RowDefinition Height="286"/>
+            		<RowDefinition Height="0.714*"/>
+            	</Grid.RowDefinitions>
+            	<Grid Margin="0">
+            		<Grid.Background>
+            			<ImageBrush ImageSource="Image/large.png" Stretch="UniformToFill"/>
+            		</Grid.Background>
+                    <my:FlatButton Content="HELLO" IsPress="False"  AwesomeIcon="checkcircle" IconColor="Red" IsHover="False" FontSize="20" Height="36" HorizontalAlignment="Center" Margin="423.5,0,423.5,37" x:Name="flatButton1" VerticalAlignment="Bottom" Width="169" Background="{x:Null}" BorderBrush="#FF0C565B" Foreground="DarkGreen" />
+                </Grid>
+            	<ItemsControl ItemsSource="{Binding Items, ElementName=Window}" Grid.Row="1">
+            		<ItemsControl.ItemsPanel >
+            			<ItemsPanelTemplate >
+            				<UniformGrid Columns="6"/>
+            			</ItemsPanelTemplate>
+            		</ItemsControl.ItemsPanel>
+            	</ItemsControl>
+			</Grid>
+        </ScrollViewer>
+    </Grid>
+</Window>
